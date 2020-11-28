@@ -6,3 +6,9 @@ An Android Application developed as a part of Skills Development Laboratory (SDL
 Functionalities in the app include Pause, Play, Previous & Next.
 
 
+
+<img src="images/Screenshot_20201129-034041.png" height=600px width=400px>
+
+<img src="images/Screenshot_20201129-034049.png" height=600px width=400px>
+
+<img src="images/Screenshot_20201129-034116.png" height=600px width=400px>
